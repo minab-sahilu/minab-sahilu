@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minab-sahilu
-- 👀 I’m interested in programmer 
+- 👀 I’m interested in programmer , animation 
 - 🌱 I’m currently learning python ...
 - 💞️ I’m looking to collaborate on java software development 
 - 📫 How to reach me  minab.sahilu@gmail.com...
